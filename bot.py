@@ -1,5 +1,5 @@
 #(©)Codexbotz
-
+pyrogram.utils.MIN_CHANNEL_ID = -1002309805856
 from aiohttp import web
 from plugins import web_server
 
